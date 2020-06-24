@@ -46,3 +46,7 @@ wrap para executar comandos no banco de dados
 ### script_migracao
 
 mostra quantos migra*.sql tem na pasta home, se tiver
+
+### lsdb
+
+lista todos os bancos de dados seguindo o prefixo no PROPERTIES_FILE
